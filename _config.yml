@@ -53,3 +53,8 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - about.md
+  - documentation.md
+  - testpage.md

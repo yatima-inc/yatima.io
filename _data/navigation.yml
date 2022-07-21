@@ -1,0 +1,6 @@
+- name: About
+  link: /content/about.html
+- name: Documentation
+  link: /content/documentation.html
+- name: ZkSNARKS
+  link: /content/ZkSNARKS.html
