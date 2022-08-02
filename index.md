@@ -9,3 +9,4 @@ layout: home
 {% for myimage in image_files %}
   <img src="{{myimage.path}}" alt="{myimage.name}">
 {% endfor %}
+
