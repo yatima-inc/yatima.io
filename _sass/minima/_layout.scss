@@ -10,37 +10,15 @@
   position: relative;
 }
 
-.center-image-div {
-    height: 0;
-}
-
-@media screen and (min-width: 640px) {
-    .center-image-overlap {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 0px;
-        margin-top: 10px;
-        max-width: 10%; 
-        max-height: auto;
-        overflow: visible;
-        top: -60px;
-        position: relative;
-        left: -30px;
-    }
-}
-
-@media screen and (max-width:640px){
-    .center-image-overlap{
-        display:none;
-    }
-}
-
-
 .horizontal {
     display: flex;
 }
-  
+
+.site-logo {
+  max-height: $spacing-unit * 1.865;
+  padding-right: $spacing-unit*.5;
+  float: left;
+}
 
 .site-title {
   @include relative-font-size(1.625);
