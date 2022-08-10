@@ -1,0 +1,1 @@
+{"name":"Yatima.Cli.TranspileCmd","instances":[],"imports":["Init","Cli"],"declarations":[{"sourceLink":"https://github.com/yatima-inc/yatima-lang/blob/82a6dd67e7726e9faa2d904eaf0d5464243c8366/Yatima/Cli/TranspileCmd.lean#L4-L7","name":"transpileCmd","docLink":"./Yatima/Cli/TranspileCmd.html#transpileCmd","doc":""}]}

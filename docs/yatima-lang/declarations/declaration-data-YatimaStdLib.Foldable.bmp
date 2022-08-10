@@ -1,0 +1,1 @@
+{"name":"YatimaStdLib.Foldable","instances":[],"imports":["Init","YatimaStdLib.Algebra.Defs"],"declarations":[{"sourceLink":"https://github.com/yatima-inc/YatimaStdLib.lean/blob/a2bbc9a48db7efd5d761a5b27f2cc6c1863b9622/YatimaStdLib/Foldable.lean#L9-L12","name":"Foldable","docLink":"./YatimaStdLib/Foldable.html#Foldable","doc":""}]}

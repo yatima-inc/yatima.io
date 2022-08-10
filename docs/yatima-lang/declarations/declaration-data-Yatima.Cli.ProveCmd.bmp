@@ -1,0 +1,1 @@
+{"name":"Yatima.Cli.ProveCmd","instances":[],"imports":["Init","Cli"],"declarations":[{"sourceLink":"https://github.com/yatima-inc/yatima-lang/blob/82a6dd67e7726e9faa2d904eaf0d5464243c8366/Yatima/Cli/ProveCmd.lean#L4-L7","name":"proveCmd","docLink":"./Yatima/Cli/ProveCmd.html#proveCmd","doc":""}]}

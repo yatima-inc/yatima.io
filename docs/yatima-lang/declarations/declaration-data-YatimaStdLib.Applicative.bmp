@@ -1,0 +1,1 @@
+{"name":"YatimaStdLib.Applicative","instances":[],"imports":["Init"],"declarations":[{"sourceLink":"https://github.com/yatima-inc/YatimaStdLib.lean/blob/a2bbc9a48db7efd5d761a5b27f2cc6c1863b9622/YatimaStdLib/Applicative.lean#L4-L6","name":"Applicative.liftA₂","docLink":"./YatimaStdLib/Applicative.html#Applicative.liftA₂","doc":"Two-argument version of the map function "}]}

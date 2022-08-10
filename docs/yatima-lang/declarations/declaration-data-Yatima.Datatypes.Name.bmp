@@ -1,0 +1,1 @@
+{"name":"Yatima.Datatypes.Name","instances":[],"imports":["Init"],"declarations":[{"sourceLink":"https://github.com/yatima-inc/yatima-lang/blob/82a6dd67e7726e9faa2d904eaf0d5464243c8366/Yatima/Datatypes/Name.lean#L3-L3","name":"Yatima.Name","docLink":"./Yatima/Datatypes/Name.html#Yatima.Name","doc":""}]}

@@ -1,0 +1,1 @@
+{"name":"Yatima.ForLurkRepo.Tests","instances":[],"imports":["Init","Yatima.ForLurkRepo.DSL"],"declarations":[{"sourceLink":"https://github.com/yatima-inc/yatima-lang/blob/82a6dd67e7726e9faa2d904eaf0d5464243c8366/Yatima/ForLurkRepo/Tests.lean#L3-L43","name":"isZeroProg","docLink":"./Yatima/ForLurkRepo/Tests.html#isZeroProg","doc":""}]}

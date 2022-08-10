@@ -1,0 +1,1 @@
+{"name":"YatimaStdLib.Option","instances":[],"imports":["Init"],"declarations":[{"sourceLink":"https://github.com/yatima-inc/YatimaStdLib.lean/blob/a2bbc9a48db7efd5d761a5b27f2cc6c1863b9622/YatimaStdLib/Option.lean#L3-L6","name":"Option.option","docLink":"./YatimaStdLib/Option.html#Option.option","doc":""}]}
